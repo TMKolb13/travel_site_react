@@ -1,0 +1,17 @@
+.flag {
+    width: 250px;
+    padding-top: 50px;
+  }
+
+.content {
+    margin-left: 25px;
+    margin-right: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+.cards {
+  margin-bottom: 50px;
+}
+
